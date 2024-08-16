@@ -1,35 +1,66 @@
-/*----------------------------------------------------
-@File: Default Styles
-@Author: Rocky
-@URL: http://wethemez.com
-Author E-mail: rockybd1995@gmail.com
-
-This file contains the styling for the actual theme, this
-is the file you need to edit to change the look of the
-theme.
+/*----------------------------------------------------
+
+@File: Default Styles
+
+@Author: Rocky
+
+@URL: http://wethemez.com
+
+Author E-mail: rockybd1995@gmail.com
+
+
+
+This file contains the styling for the actual theme, this
+
+is the file you need to edit to change the look of the
+
+theme.
+
 ---------------------------------------------------- */
-/*=====================================================================
-@Template Name: Cerative Agency
-@Author: Rocky
-@Developed By: Rocky
-@Developer URL: http://rocky.wethemez.com
-Author E-mail: rockybd1995@gmail.com
-
-@Default Styles
-
-Table of Content:
-01/ Variables
-02/ predefin
-03/ header
-04/ banner
-05/ slider
-06/ feature
-07/ button
-08/ service
-09/ testimonials 
-10/ blog 
-11/ contact 
-12/ footer 
+/*=====================================================================
+
+@Template Name: Cerative Agency
+
+@Author: Rocky
+
+@Developed By: Rocky
+
+@Developer URL: http://rocky.wethemez.com
+
+Author E-mail: rockybd1995@gmail.com
+
+
+
+@Default Styles
+
+
+
+Table of Content:
+
+01/ Variables
+
+02/ predefin
+
+03/ header
+
+04/ banner
+
+05/ slider
+
+06/ feature
+
+07/ button
+
+08/ service
+
+09/ testimonials 
+
+10/ blog 
+
+11/ contact 
+
+12/ footer 
+
 =====================================================================*/
 /*----------------------------------------------------*/
 /*font Variables*/
@@ -321,7 +352,7 @@ i:before {
 
 .banner_area:before {
   content: "";
-  background: url(../img/banner/banner-bg.png) no-repeat scroll center right;
+  background: url(../img/5.png) no-repeat scroll center right;
   position: absolute;
   right: 0px;
   top: 0px;
@@ -368,7 +399,7 @@ i:before {
 /* Slider css
 ============================================================================================ */
 .main_slider_area {
-  background: url(../img/home-slider/slider-bg-1.png) no-repeat scroll center center;
+  background: url(../img/5.png) no-repeat scroll center center;
   background-size: cover;
 }
 
@@ -792,7 +823,7 @@ i:before {
 /* Service Solution Area css
 ============================================================================================ */
 .service_solution_area {
-  background: url(../img/service-bg.jpg) no-repeat fixed center right;
+  background: url(../img/5.png) no-repeat fixed center right;
   background-size: cover;
   position: relative;
   z-index: 3;
@@ -1013,7 +1044,7 @@ i:before {
 
 .best_3d_area .left_3d:before {
   content: "";
-  background: url(../img/3d-slider-shap.png) no-repeat scroll center center;
+  background: url(.img/10.png) no-repeat scroll center center;
   background-size: cover;
   min-height: 100%;
   position: absolute;

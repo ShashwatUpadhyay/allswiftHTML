@@ -1044,7 +1044,7 @@ i:before {
 
 .best_3d_area .left_3d:before {
   content: "";
-  background: url(../img/4.png) no-repeat scroll center center;
+  background: url(../img/10.png) no-repeat scroll center center;
   background-size: cover;
   min-height: 100%;
   position: absolute;
@@ -2317,3 +2317,6 @@ i:before {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+
+
+
